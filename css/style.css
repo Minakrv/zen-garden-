@@ -205,8 +205,8 @@ h1 {
         margin: 5px;
         position: relative;
         color: rgba(255, 255, 255, 0.5);
-        box-shadow 0.25s ease-out;
-        box-shadow 0.25s ease-out;
+        box-shadow: 0.25s ease-out;
+        box-shadow: 0.25s ease-out;
         transition: color 0.25s ease-out, box-shadow 0.25s ease-out;
         
         
