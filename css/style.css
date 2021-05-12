@@ -208,7 +208,7 @@ h1 {
         box-shadow: 0.25s ease-out;
         box-shadow: 0.25s ease-out;
         transition: color 0.25s ease-out, box-shadow 0.25s ease-out;
-        
+        font-size: 400%;
         
       }
       footer a:hover, footer a:focus {
